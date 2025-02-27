@@ -30,7 +30,7 @@ I'm a **Full-Stack Developer** passionate about building scalable web applicatio
 
 ## 📫 Get in Touch
 - **Email:** davkibobo@gmail.com  
-- **GitHub:** (https://github.com/David-kibobo)  
-- **LinkedIn:** (https://www.linkedin.com/in/david-kirago-393397b3/)  
+- **GitHub:** https://github.com/David-kibobo  
+- **LinkedIn:** https://www.linkedin.com/in/david-kirago-393397b3/  
 
 Feel free to check out my projects and connect with me!
