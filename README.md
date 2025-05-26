@@ -13,7 +13,7 @@ I'm a **Full-Stack Developer** with a strong focus on building scalable and effi
 
 ## 📦 Featured Projects
 
-### 🖨️ **Cyuberprint - Remote Printing with MPESA Integration**
+### 🖨️ **Cyberprint - Remote Printing with MPESA Integration**
 - **Tech Stack:** Django, Tailnet (Tailscale), React, MPESA API
 - **Description:** A cloud-based remote printing platform that uses Tailnet to securely connect client devices to print stations. Clients pay for prints via MPESA, triggering real-time printing upon payment confirmation.
 - **Highlights:** IoT-like remote control, secure network connections, MPESA payment automation.
